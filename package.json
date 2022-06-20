@@ -45,7 +45,7 @@
   "homepage": "http://artikus007.github.io/react-native-country-picker-modal",
   "dependencies": {
     "@callstack/react-theme-provider": "3.0.7",
-    "fuse.js": "6.6.2",
+    "fuse.js": "^3.4.5",
     "node-emoji": "1.11.0",
     "prop-types": "15.8.1",
     "react-async-hook": "4.0.0"

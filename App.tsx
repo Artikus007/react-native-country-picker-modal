@@ -54,7 +54,7 @@ const Option = ({ value, onValueChange, title }: OptionProps) => (
 
 export default function App() {
   const [countryCode, setCountryCode] = useState<CountryCode | undefined>()
-  const [country, setCountry] = useState<Country>(null)
+  const [country, setCountry] = useState<Country>()
   const [withCountryNameButton, setWithCountryNameButton] = useState<boolean>(
     false,
   )
